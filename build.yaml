@@ -20,6 +20,6 @@
 ---
 include:
   - board: nice_nano
-    shield: ergokeys_left
+    shield: ErgoKeys_left
   - board: nice_nano
-    shield: ergokeys_right
+    shield: ErgoKeys_right
