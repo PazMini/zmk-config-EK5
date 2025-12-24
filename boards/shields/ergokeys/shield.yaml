@@ -1,0 +1,15 @@
+
+# Minimal split shield definition for ZMK (module layout)
+# Path: boards/shields/ergokeys/shield.yaml
+
+name: ergokeys
+compatible: "zmk,keyboard"
+include: base.yaml     # pull in ZMK's default shield behavior
+split: true            # enables *_left / *_right variants via overlays
+
+# Optional, but good practice:
+description: "ErgoKeys split keyboard shield (left/right variants)"
+url: "https://your-repo-or-docs.example"
+maintainers:
+  - "@yPazMini"
+``
