@@ -1,5 +1,5 @@
 #include "ErgoKeys.dtsi"
-
+chosen { zmk,split-role = "left"; };
 &kscan0 {
     col-gpios
         = <&pro_micro 3 GPIO_ACTIVE_HIGH>

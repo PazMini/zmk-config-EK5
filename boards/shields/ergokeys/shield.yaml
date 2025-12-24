@@ -8,7 +8,7 @@ include: base.yaml     # pull in ZMK's default shield behavior
 split: true            # enables *_left / *_right variants via overlays
 
 # Optional, but good practice:
-description: "ErgoKeys split keyboard shield (left/right variants)"
+description: "ErgoKeys split keyboard shield (.- .-.. ..)"
 url: "https://your-repo-or-docs.example"
 maintainers:
   - "@yPazMini"

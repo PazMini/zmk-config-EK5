@@ -1,3 +1,5 @@
+
+name: ergokeys_module
 build:
-  settings:
-    board_root: .
+  cmake: .
+  kconfig: .
