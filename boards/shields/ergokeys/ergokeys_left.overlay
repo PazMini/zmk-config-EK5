@@ -1,5 +1,5 @@
 
-#include "ErgoKeys.dtsi"
+#include "ergokeys.dtsi"
 
  / {
     chosen { zmk,split-role = "left"; };
