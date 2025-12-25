@@ -27,12 +27,6 @@
         <&gpio0  6 GPIO_ACTIVE_HIGH>,
         <&gpio0  7 GPIO_ACTIVE_HIGH>;
 
-    /* Example row pins — replace with your actual pins */
-    row-gpios =
-        <&gpio0  8 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>,
-        <&gpio0  9 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>,
-        <&gpio0 10 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
-
     diode-direction = "col2row";
     status = "okay";
 };
