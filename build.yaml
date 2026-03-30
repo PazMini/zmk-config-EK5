@@ -19,7 +19,7 @@
 #
 ---
 include:
-  - board: nrf52840_blip
+  - board: nrf52840_mdk
     shield: ergokeys_left
-  - board: nrf52840_blip
+  - board: nrf52840_mdk
     shield: ergokeys_right
