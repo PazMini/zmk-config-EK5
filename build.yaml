@@ -19,7 +19,7 @@
 #
 ---
 include:
-  - board: nrf52840_papyr
+  - board: nrf52840dk_nrf52840
     shield: ergokeys_left
   - board: nrf52840
-    shield: nrf52840_papyr
+    shield: nrf52840dk_nrf52840
