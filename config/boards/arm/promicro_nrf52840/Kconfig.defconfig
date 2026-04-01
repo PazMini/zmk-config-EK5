@@ -1,9 +1,0 @@
-if BOARD_PROMICRO_NRF52840
-
-config CLOCK_CONTROL_NRF_K32SRC_RC
-    default y
-
-config SOC_LOW_POWER
-    default y
-
-endif

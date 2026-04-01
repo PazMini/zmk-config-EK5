@@ -1,0 +1,4 @@
+name: zmk-config
+shields:
+  - ergokeys_left
+  - ergokeys_right
