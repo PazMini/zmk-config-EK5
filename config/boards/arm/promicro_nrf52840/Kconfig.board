@@ -1,0 +1,2 @@
+config BOARD_PROMICRO_NRF52840
+    bool "ProMicro NRF52840 Clone"

@@ -1,0 +1,7 @@
+name: zmk-config
+boards:
+  - promicro_nrf52840
+shields:
+  - ergokeys_left
+  - ergokeys_right
+``

@@ -1,0 +1,1 @@
+set(BOARD promicro_nrf52840)

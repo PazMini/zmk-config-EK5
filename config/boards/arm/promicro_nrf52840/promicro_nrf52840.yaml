@@ -1,0 +1,13 @@
+identifier: promicro_nrf52840
+name: "ProMicro NRF52840 Clone"
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+supported:
+  - gpio
+  - usb_device
+board_revision: "1.0"
+soc: nrf52840
+flash: 1024
+ram: 256
