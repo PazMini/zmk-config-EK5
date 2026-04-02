@@ -33,4 +33,3 @@
         <&gpio0 11 GPIO_ACTIVE_HIGH>,   /* C4 */
         <&gpio0 17 GPIO_ACTIVE_HIGH>;   /* C5 */
 };
-``
