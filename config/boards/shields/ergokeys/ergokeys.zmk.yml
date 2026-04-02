@@ -1,0 +1,15 @@
+file_format: "1"
+id: ergokeys
+name: ErgoKeys
+type: shield
+url: https://github.com/foostan/crkbd/
+requires:
+  - pro_micro
+exposes:
+  - i2c_oled
+features:
+  - keys
+  - display
+siblings:
+  - ergokeys_left
+  - ergokeys_right
