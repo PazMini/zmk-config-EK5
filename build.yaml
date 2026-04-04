@@ -4,3 +4,7 @@ include:
   - board: promicro_nrf52840
     shield: ergokeys_right
   
+
+extra-cmake-args:
+  - -DCONFIG_ZMK_USB_BOOTLOADER=y
+  - -DCONFIG_ZMK_BOOTLOADER_TYPE=uf2
