@@ -4,12 +4,11 @@ name: ErgoKeys
 type: shield
 url: https://github.com/PazMini/zmk-config-EK5.git
 requires:
-  - pro_micro
+  - nice_nano_v2
 exposes:
   - i2c_oled
 features:
   - keys
-  - display
 siblings:
   - ergokeys_left
   - ergokeys_right
