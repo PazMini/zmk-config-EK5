@@ -1,6 +1,6 @@
 include:
-  - board: nrf52840-nicenano
+  - board: nice_nano
     shield: ergokeys_left
-  - board: nrf52840-nicenano
+  - board: nice_nano
     shield: ergokeys_right
   
